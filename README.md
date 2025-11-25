@@ -109,7 +109,7 @@ Give the owner Full Control; set an explicit Deny on all permissions for other g
 
 ## 13.3.4.6 Lab – Configure Windows Firewall
 
-![Leyfð forrit í Windows Defender Firewall](images/firewall_allowed_apps.png)
+![Leyfð forrit í Windows Defender Firewall](Screenshot 2025-11-25 154147.png)
 
 ---
 
