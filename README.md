@@ -109,7 +109,8 @@ Give the owner Full Control; set an explicit Deny on all permissions for other g
 
 ## 13.3.4.6 Lab – Configure Windows Firewall
 
-mynd
+![Leyfð forrit í Windows Defender Firewall](images/firewall_allowed_apps.png)
+
 ---
 
 ## 13.4.1.10 Packet Tracer - Configure Wireless Security
