@@ -1,16 +1,5 @@
 # KEST2 Assignment 6 – Security
 
-> Summary and answers to questions from several Windows security and administration labs (BitLocker, Local Security Policy, Users & Groups, Firewall, and Wireless Security).
-
----
-
-## 13.4.1.10 Packet Tracer – Configure Wireless Security
-
-Instructor: take!  
-Password: `Cisco12345`
-
-> Note: Entered as instructed "in a file on Top".
-
 ---
 
 ## 13.2.3.7 Lab – BitLocker and BitLocker To Go
