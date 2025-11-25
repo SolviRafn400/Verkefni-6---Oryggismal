@@ -92,7 +92,7 @@ Partially. Student01 (ITEStudent) does not have access to the Staff folder but h
 Only Student02 can access their own folder; no access to the Student01 folder.
 
 **15. Could you access Staff, Student\Student01, and Student\Student02 as Staff01?**  
-Yes. ITEStaff members have access to C:\Staff and C:\Student (write is not denied).
+Yes. ITEStaff members have access to C:\Staff and C:\Student's folders.
 
 #### Step 2 – Disable a user account
 **16. Were you able to log in as Staff02?**  
@@ -109,37 +109,7 @@ Give the owner Full Control; set an explicit Deny on all permissions for other g
 
 ## 13.3.4.6 Lab – Configure Windows Firewall
 
-**1. Is the shared folder Cisco visible under PC-1?**  
-True.
-
-**2. Benefits of Windows Firewall?**  
-Blocks unauthorized access (hackers/malware) from the network or internet and controls allowed communications.
-
-**3. Negative consequence of too many exceptions?**  
-Too many exceptions increase the attack surface and risk.
-
-**4. Can you connect to PC-1 and see the Cisco folder?**  
-No.
-
-**5. Error message on PC-2?**  
-"Windows cannot access PC-1."
-
-**6. Can you connect to Computer 1? Explain.**  
-Yes, File and Printer Sharing is not blocked by the firewall.
-
-**7. Short names of four services in the Customize Service Settings window:**  
-AxinstSv, AjRouter, Appinfo, ALG.
-
-**8. Four Specific ICMP types:**  
-Packet Too Big, Source Quench, Echo Request, Time Exceeded.
-
-### Reflection
-**Why might you need to modify firewall settings?**  
-To allow legitimate applications/services to work (game services, conferencing apps, custom services) or to harden security by closing unnecessary ports.
-
+mynd
 ---
 
-## Notes
-- Text neatly formatted.
-- Questions and answers kept consistent with the original data.
-- Do not use passwords and sensitive test information in production environments.
+## 13.4.1.10 Packet Tracer - Configure Wireless Security
