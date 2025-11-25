@@ -1,5 +1,3 @@
-# Verkefni-6---Oryggismal
-
 # KEST2 Verkefni 6 – Öryggismál
 
 > Samantekt og svör við spurningum úr nokkrum Windows öryggis- og stjórnunarlaboratoríum (BitLocker, Local Security Policy, Users & Groups, Firewall og Wireless Security). 
